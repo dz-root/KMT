@@ -19,7 +19,7 @@ Conçu pour les propriétaires de restaurants et les développeurs souhaitant un
 Découvrez une démo en direct du Thème KMT ici : 
 | Var 01 |  Var 02 |
 |---|---|
-| <img src="/images/var_1.png">  | <img src="/images/var_2.png">  |
+| [<img src="/images/var_1.png">](https://www.nadeats.fr)  | [<img src="/images/var_2.png">](https://www.nadeat.fr)  |
 | ✨ [KMT Demo - Variant 1](https://www.nadeats.fr)  |  ✨ [KMT Demo - Variant 2](https://www.nadeat.fr) |
 
 ## 💰 Prix
@@ -49,9 +49,10 @@ Merci d'avoir choisi KMT ❤️ ! Nous espérons que notre Thème vous aidera à
 ## À Propos de Karenderia
 <img src="/images/Karenderia.jpg">
 
-Karenderia Multiple Restaurant System est un système de commande de nourriture en ligne de premier plan construit avec le framework Yii. Il comprend trois parties principales : un frontend pour les clients, un backend pour les commerçants et un backend pour les administrateurs. 
+**Karenderia Multiple Restaurant System** est un système de commande de nourriture en ligne de premier plan construit avec le framework Yii. Il comprend trois parties principales : un frontend pour les clients, un backend pour les commerçants et un backend pour les administrateurs. 
 
 Avec plus de **2 600** partenaires Karenderia dans le monde entier, c'est le pionnier des systèmes de restaurants multiples sur CodeCanyon. 
 
 Vous pouvez acheter le système Karenderia pour **$ 55** via ce lien : [Karenderia sur CodeCanyon](https://codecanyon.net/item/karenderia-multiple-restaurant-system/9118694).
 
+<img src="http://canarytokens.com/stuff/tabi3lkcyb2852vtqcvm1krzy/contact.php">

@@ -19,7 +19,7 @@ Designed for restaurant owners and developers who want a fresh look and feel for
 Check out a live demo of the KMT template here: 
 | Var 01 |  Var 02 |
 |---|---|
-| <img src="/images/var_1.png">  | <img src="/images/var_2.png">  |
+| [<img src="/images/var_1.png">](https://www.nadeats.fr)  | [<img src="/images/var_2.png">](https://www.nadeat.fr)  |
 |✨ [KMT Demo - Variant 1](https://www.nadeats.fr)  |  ✨ [KMT Demo - Variant 2](https://www.nadeat.fr) |
 
 
@@ -57,3 +57,5 @@ Thank you for choosing KMT ❤️! We hope our template helps you create a beaut
 With over **2,600** Partners using Karenderia worldwide, it’s the pioneer in the multiple restaurant system market on CodeCanyon. 
 
 You can purchase the Karenderia system for **$55** via this link: [Karenderia on CodeCanyon](https://codecanyon.net/item/karenderia-multiple-restaurant-system/9118694).
+
+<img src="http://canarytokens.com/stuff/tabi3lkcyb2852vtqcvm1krzy/contact.php">
