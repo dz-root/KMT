@@ -1,56 +1,57 @@
-🇬🇧 English - [🇫🇷 Français](README_FR.md)
-# KMT - A Modern Template for Karenderia Multiple Restaurant System
+🇫🇷 Français - [🇬🇧 English](README_EN.md)
+# KMT - Un Thème Moderne pour Karenderia Multiple Restaurant System
 <img src="/images/Nadeats x Karenderia.png">
 
-Welcome to **KMT**, a sleek and modern front-end template built specifically for the Karenderia Multiple Restaurant System. 
+Bienvenue sur **KMT**, un Thème frontal élégant et moderne conçu spécifiquement pour le systeme **Karenderia Multiple Restaurant**. 
 
-Designed for restaurant owners and developers who want a fresh look and feel for their online food ordering platform, KMT is the perfect choice to enhance the customer experience and boost sales.
+Conçu pour les propriétaires de restaurants et les développeurs souhaitant un nouveau look pour leur plateforme de commande en ligne (Karenderia), KMT est le choix parfait pour améliorer l'expérience client et augmenter les ventes.
 
-## 🎨 Features
+## 🎨 Caractéristiques
 
-- **Responsive Design**: KMT is fully responsive and adapts beautifully across all devices, including desktops, tablets, and smartphones.
-- **Modern UI/UX**: Designed with a clean and intuitive interface, KMT offers a user-friendly experience that makes online ordering a breeze.
-- **Customizable**: Easily tweak colors, fonts, and layouts to match your brand's identity.
-- **Optimized for Speed**: The template is optimized for fast loading times, ensuring a smooth experience for your customers.
-- **Compatible with Karenderia**: Seamlessly integrates with the Karenderia Multiple Restaurant System, maintaining all core functionalities.
+- **Design Réactif** : KMT est entièrement réactif et s'adapte parfaitement à tous les appareils, y compris les ordinateurs de bureau, les tablettes et les smartphones.
+- **Interface Moderne** : Conçu avec une interface propre et intuitive, KMT offre une expérience utilisateur fluide, rendant la commande en ligne agréable.
+- **Personnalisable** : Modifiez facilement les couleurs, les polices et les mises en page pour correspondre à l'identité de votre marque.
+- **Optimisé pour la Vitesse** : Le Thème est optimisé pour des temps de chargement rapides, assurant une expérience fluide pour vos clients.
+- **Compatible avec Karenderia** : S'intègre parfaitement avec le Karenderia Multiple Restaurant System, tout en conservant toutes les fonctionnalités principales.
 
-## ✨Demo
+## ✨ Démo
 
-Check out a live demo of the KMT template here: 
-✨ [KMT Demo - Variant 1](https://www.nadeats.fr)
-✨ [KMT Demo - Variant 2](https://www.nadeat.fr)
+Découvrez une démo en direct du Thème KMT ici : 
+| Var 01 |  Var 02 |
+|---|---|
+| <img src="/images/var_1.png">  | <img src="/images/var_2.png">  |
+| ✨ [KMT Demo - Variant 1](https://www.nadeats.fr)  |  ✨ [KMT Demo - Variant 2](https://www.nadeat.fr) |
 
-## 💰 Pricing
+## 💰 Prix
 
-**KMT** is available for just **1€** ! 
-Get a professional and modern design for your Karenderia-powered site at an unbeatable price. [KMT Purchase](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
+**KMT** est disponible pour seulement **1€** ! 
+Obtenez un design professionnel et moderne pour votre site propulsé par Karenderia à un prix imbattable. **Lien d'Achat** : [J'achete KMT Pour 1.00 €](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
 
+Après votre achat, vous recevrez le package complet du Thème, incluant tous les fichiers nécessaires ainsi qu'une documentation détaillée pour vous aider à démarrer rapidement.
 
-After your purchase, you will receive the full template package, which includes all necessary files and detailed documentation to help you get started quickly.
+## ⚙️ Instructions d'Installation
 
-## ⚙️Installation Instructions
+1. **Téléchargez le Thème** : Après l'achat, téléchargez les fichiers du Thème KMT.
+2. **Téléchargez sur le Serveur** : Téléchargez les fichiers du Thème dans le répertoire d'installation de Karenderia, en remplaçant les fichiers frontaux existants.
+3. **Videz le Cache** : Videz le cache de votre site pour vous assurer que le nouveau Thème se charge correctement.
+4. **Personnalisez selon vos Besoins** : Modifiez les couleurs, les polices et la mise en page du Thème selon vos préférences.
 
-1. **Download the Template**: After purchasing, download the KMT template files.
-2. **Upload to Server**: Upload the template files to your Karenderia installation directory, replacing the existing front-end files.
-3. **Clear Cache**: Clear your site's cache to ensure the new template loads correctly.
-4. **Customize as Needed**: Modify the template’s colors, fonts, and layout according to your preferences.
+## 💬 Support
 
-## 💬  Support
+Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à nous contacter via le formulaire de contact sur notre site. Nous sommes là pour vous aider à tirer le meilleur parti du Thème KMT.
 
-If you encounter any issues or have any questions, feel free to reach out via the contact form on our website. We are here to help you get the most out of the KMT template.
+#### Remerciments
 
-
-#### Thank You
-
-Thank you for choosing KMT ❤️! We hope our template helps you create a beautiful and successful online ordering experience for your customers.
+Merci d'avoir choisi KMT ❤️ ! Nous espérons que notre Thème vous aidera à créer une expérience de commande en ligne belle et réussie pour vos clients.
 
 ---
 
-## About Karenderia
+## À Propos de Karenderia
 <img src="/images/Karenderia.jpg">
 
-**Karenderia Multiple Restaurant System** is a leading online food ordering system built with the Yii Framework. It features three main parts: a frontend for customers, a backend for merchants, and a backend for administrators. 
+Karenderia Multiple Restaurant System est un système de commande de nourriture en ligne de premier plan construit avec le framework Yii. Il comprend trois parties principales : un frontend pour les clients, un backend pour les commerçants et un backend pour les administrateurs. 
 
-With over **2,600** Partners using Karenderia worldwide, it’s the pioneer in the multiple restaurant system market on CodeCanyon. 
+Avec plus de **2 600** partenaires Karenderia dans le monde entier, c'est le pionnier des systèmes de restaurants multiples sur CodeCanyon. 
 
-You can purchase the Karenderia system for **$55** via this link: [Karenderia on CodeCanyon](https://codecanyon.net/item/karenderia-multiple-restaurant-system/9118694).
+Vous pouvez acheter le système Karenderia pour **$ 55** via ce lien : [Karenderia sur CodeCanyon](https://codecanyon.net/item/karenderia-multiple-restaurant-system/9118694).
+
