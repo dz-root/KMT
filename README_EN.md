@@ -23,14 +23,6 @@ Check out a live demo of the KMT template here:
 |✨ [KMT Demo - Variant 1](https://www.nadeats.fr)  |  ✨ [KMT Demo - Variant 2](https://www.nadeat.fr) |
 
 
-## 💰 Pricing
-
-**KMT** is available for just **1€** ! 
-Get a professional and modern design for your Karenderia-powered site at an unbeatable price. [KMT Purchase](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
-
-
-After your purchase, you will receive the full template package, which includes all necessary files and detailed documentation to help you get started quickly.
-
 ## ⚙️Installation Instructions
 
 1. **Download the Template**: After purchasing, download the KMT template files.
@@ -42,6 +34,15 @@ After your purchase, you will receive the full template package, which includes 
 
 If you encounter any issues or have any questions, feel free to reach out via the contact form on our website. We are here to help you get the most out of the KMT template.
 
+## 💰 Pricing
+
+**KMT** is available for just **1.00 €** ! 
+Get a professional and modern design for your Karenderia-powered site at an unbeatable price. [KMT Purchase](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
+
+[<img src="/images/buy_it.png">](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
+
+
+After your purchase, you will receive the full template package, which includes all necessary files and detailed documentation to help you get started quickly.
 
 #### Thank You
 

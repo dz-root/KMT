@@ -22,12 +22,6 @@ Découvrez une démo en direct du Thème KMT ici :
 | [<img src="/images/var_1.png">](https://www.nadeats.fr)  | [<img src="/images/var_2.png">](https://www.nadeat.fr)  |
 | ✨ [KMT Demo - Variant 1](https://www.nadeats.fr)  |  ✨ [KMT Demo - Variant 2](https://www.nadeat.fr) |
 
-## 💰 Prix
-
-**KMT** est disponible pour seulement **1€** ! 
-Obtenez un design professionnel et moderne pour votre site propulsé par Karenderia à un prix imbattable. **Lien d'Achat** : [J'achete KMT Pour 1.00 €](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
-
-Après votre achat, vous recevrez le package complet du Thème, incluant tous les fichiers nécessaires ainsi qu'une documentation détaillée pour vous aider à démarrer rapidement.
 
 ## ⚙️ Instructions d'Installation
 
@@ -40,9 +34,20 @@ Après votre achat, vous recevrez le package complet du Thème, incluant tous le
 
 Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à nous contacter via le formulaire de contact sur notre site. Nous sommes là pour vous aider à tirer le meilleur parti du Thème KMT.
 
+## 💰 Prix
+
+**KMT** est disponible pour seulement **1.00 €** ! 
+Obtenez un design professionnel et moderne pour votre site propulsé par Karenderia à un prix imbattable. **Lien d'Achat** : [J'achete KMT Pour 1.00 €](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
+
+[<img src="/images/buy_it.png">](https://buy.stripe.com/7sIcNU8as7AB3e06p9)
+
+Après votre achat, vous recevrez le package complet du Thème, incluant tous les fichiers nécessaires ainsi qu'une documentation détaillée pour vous aider à démarrer rapidement.
+
+
 #### Remerciments
 
 Merci d'avoir choisi KMT ❤️ ! Nous espérons que notre Thème vous aidera à créer une expérience de commande en ligne belle et réussie pour vos clients.
+
 
 ---
 
